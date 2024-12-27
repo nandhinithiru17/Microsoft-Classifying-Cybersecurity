@@ -1,4 +1,4 @@
-# Microsoft-Classifying-Cybersecurity
+ # Microsoft-Classifying-Cybersecurity
 Project Overview
 The Classifying Cybersecurity Incidents project is a machine learning-based solution designed to enhance the efficiency of Security Operation Centers (SOCs) at Microsoft. The project focuses on building a classification model that accurately predicts the triage grade of cybersecurity incidents, assisting SOC analysts in prioritizing their efforts and responding to threats efficiently.
 
