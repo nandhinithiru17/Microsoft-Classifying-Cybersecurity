@@ -56,7 +56,7 @@ Alerts: Aggregated evidence signaling a potential security incident.
 Incidents: A collection of alerts representing a complete security threat scenario.
 
 Usage
-Load the data from train.csv and test.csv.
+ Load the data from train.csv and test.csv.
 Preprocess and engineer features.
 Train and evaluate your model.
 Check model performance with key metrics (Macro-F1 Score, Precision, Recall).
